@@ -10,3 +10,5 @@
 - Αναζήτηση δημοσιευμένων ειδήσεων από επισκέπτες.
 
 Η πλήρης εκφώνηση βρίσκεται στο `ASSIGNMENT.md`.
+
+Workshop note: Updated on GitHub by member B.
