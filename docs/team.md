@@ -2,8 +2,8 @@
 
 | Μέλος | Ονοματεπώνυμο | ΑΜ | GitHub username |
 |---|---|---|---|
-| A | TODO | TODO | TODO |
-| B | TODO | TODO | TODO |
+| A | nick koutras | 3212023100 | nikolaskoutras1-png |
+| B | kostas xatzhioannou | 3212023243 | 13kosths13 |
 
 ## Συνεργασία
 
