@@ -1,4 +1,4 @@
-# News Management
+# News Management System
 
 Starter για το Σύστημα Διαχείρισης Ειδήσεων του εργαστηρίου Τεχνολογίας Λογισμικού.
 
