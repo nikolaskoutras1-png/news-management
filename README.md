@@ -1,4 +1,4 @@
-# News Management Backend 
+# News Management Backend System
 
 Starter για το Σύστημα Διαχείρισης Ειδήσεων του εργαστηρίου Τεχνολογίας Λογισμικού.
 
